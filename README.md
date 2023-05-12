@@ -9,7 +9,7 @@
 6. 3D Plot of Every Features.
 
 **This Code is Written by Mushab Tinumbang** <br>
-*Notebook: https://www.kaggle.com/code/mushabtinumbang/customer-segmentation-k-means/notebook*
+*Notebook: https://www.kaggle.com/code/mushabtinumbang/customer-segmentation-k-means/notebook* <br>
 *Data Source: Vijay Choudhary (https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)*
 
 
